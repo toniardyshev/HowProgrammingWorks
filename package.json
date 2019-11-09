@@ -1,0 +1,26 @@
+{
+  "name": "HowProgrammingWorks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toniardyshev/HowProgrammingWorks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toniardyshev/HowProgrammingWorks/issues"
+  },
+  "homepage": "https://github.com/toniardyshev/HowProgrammingWorks#readme"
+}
