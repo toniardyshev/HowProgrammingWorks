@@ -1,0 +1,25 @@
+{
+  "name": "howprogrammingworks",
+  "version": "1.0.0",
+  "description": "programming course from HowProgrammingWorks",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toniardyshev/HowProgrammingWorks.git"
+  },
+  "author": "Anton Ardyshev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toniardyshev/HowProgrammingWorks/issues"
+  },
+  "homepage": "https://github.com/toniardyshev/HowProgrammingWorks#readme",
+  "dependencies": {
+    "metarhia-common": "0.0.38"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
