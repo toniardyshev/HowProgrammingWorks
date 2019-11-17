@@ -1,8 +1,9 @@
-<<<<<<< HEAD
-node_modules*
+Lecture
+node_modules *
 *.log
 .DS_Store
 JavaScript
+./idea
 =======
 # Logs
 logs
